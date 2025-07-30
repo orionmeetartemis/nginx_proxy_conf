@@ -138,10 +138,3 @@ https://www.php8.ltd/HostLocMJJ/https://github.com/ElderDrivers/EdXposed        
 支持googledrive下载 需要自行导入cookie
 
 5.15 增加白名单功能
-
-## CDN acceleration and security protection for this project are sponsored by Tencent EdgeOne
-
-
-[Best Asian CDN, Edge, and Secure Solutions - Tencent EdgeOne](https://edgeone.ai/?from=github)
-
-![Best Asian CDN, Edge, and Secure Solutions - Tencent EdgeOne](https://edgeone.ai/media/34fe3a45-492d-4ea4-ae5d-ea1087ca7b4b.png)
